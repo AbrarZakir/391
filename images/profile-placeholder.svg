@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160">
+    <rect width="160" height="160" fill="#edf2f5" />
+    <circle cx="80" cy="52" r="23" fill="#acbdca" />
+    <path d="M35 123a45 45 0 0 1 90 0" fill="#acbdca" />
+    <text x="80" y="147" text-anchor="middle" font-family="Arial, sans-serif"
+        font-size="12" fill="#344f63">Add your photo</text>
+</svg>
